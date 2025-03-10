@@ -8,9 +8,6 @@ de somme (T):
 Data=[1,3,5]
 som=sum(Data)
 print ('la somme est :',som)
-
-
-
 if Data:
     print ('la somme est:',sum(Data))
     print ('le min est :',min(Data))
