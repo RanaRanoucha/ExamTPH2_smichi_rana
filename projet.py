@@ -12,7 +12,6 @@ print ('la somme est :',som)
 
 
 
-
 if Data:
     print ('la somme est:',sum(Data))
     print ('le min est :',min(Data))
